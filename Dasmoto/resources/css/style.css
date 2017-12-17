@@ -1,0 +1,32 @@
+h1 {
+  font-size: 100px;
+  font-family: "Helvetica";
+  font-weight: bold;
+  color: Khaki;
+  background-image: url('file:///C:/Users/runek/projects/Dasmoto/resources/images/pattern.jpeg');
+}
+
+h2 {
+  font-size: 32px;
+  font-family: "Helvetica";
+  font-weight: bold;
+  color: White;
+}
+
+.Brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.Frames h2 {
+  background-color: lightcoral;
+}
+
+.Paint h2 {
+  background-color: lightblue;
+}
+
+.prices {
+  font-family: "Helvetica";
+  font-weight: bold;
+  color: blue;
+}
